@@ -1,0 +1,107 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.logo-img {
+width: 50px;
+margin-left: 10px;
+padding-right: 10px;
+}
+
+.icon {
+   text-decoration: none;
+   color: gray;
+   padding: 7px;
+   font-size: 50px;
+}
+
+a:hover {
+   color: grey;
+}
+
+.user {
+align-items: end;
+text-align: center;
+}
+
+.pfp {
+height: 60px;  
+}
+
+.svg {
+font-size: 25px;
+}
+
+.no-side-spacing {
+   padding-left: 0px !important;
+}
+
+.top-albums {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+}
+
+.img-1 {
+   width: 180px;
+   border-radius: 5px; 
+}
+
+.round {
+   border-radius: 50%;
+   height: 25px;
+   margin-top: 5px;
+   
+}
+
+.para {
+   color: whitesmoke;
+   font-family: Helvetica, Arial, sans-serif;
+   font-size: 15px;
+   margin-left: 10px;
+   
+}
+
+.img-2 {
+   width: 180px;
+   border-radius: 5px; 
+   margin-top: 40px;
+}
+
+footer {
+   position: sticky;
+}
+
+.getup {
+   height: 60px;
+}
+
+.round-2 {
+   border-radius: 50%;
+   height: 50px;
+ }
+
+.btn-icon {
+   height: 20px;
+ }
+ 
+ .p-height {
+   height: 50px;
+ }
+ .bg {
+   background-color: black;
+   padding: 30px;
+ }
+ 
+ .progress {
+   height: 10px;
+ }
+ 
+ .flexitems {
+   display: flex;
+   justify-content: space-around;
+   line-height: 50px;
+   flex-wrap: wrap;
+ }
+ 
